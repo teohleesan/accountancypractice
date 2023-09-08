@@ -1,0 +1,254 @@
+{
+    "menu": [
+      {
+        "route": "services",
+        "name": "services",
+        "type": "sub",
+        "icon": "settings",
+        "children": [
+          {
+            "route": "",
+            "name": "Accounts",
+            "type": "sub",
+            "children": [
+              {
+                "route": "StatutoryAccounts",
+                "name": "Statutory Accounts",
+                "type": "link"
+              },
+              {
+                "route": "ManagementAccounts",
+                "name": "Management Accounts",
+                "type": "link"
+              },
+              {
+                "route": "BookkeepingServices",
+                "name": "Bookkeeping Services",
+                "type": "link"
+              },
+              {
+                "route": "PayrollServices",
+                "name": "Payroll Services",
+                "type": "link"
+              },
+              {
+                "route": "BusinessPlanServices",
+                "name": "Business Plan Services",
+                "type": "link"
+              },
+              {
+                "route": "SelfAssessment",
+                "name": "Self Assessment",
+                "type": "link"
+              },
+              {
+                "route": "VAT",
+                "name": "VAT",
+                "type": "link"
+              },
+              {
+                "route": "PensionsAndAutoEnrolment",
+                "name": "Pensions and Auto Enrolment",
+                "type": "link"
+              },
+              {
+                "route": "CashFlowMgmt",
+                "name": "Cash Flow Management",
+                "type": "link"
+              }
+            ]
+          },
+          {
+            "route": "",
+            "name": "Tax",
+            "type": "sub",
+            "children": [
+              {
+                "route": "CorporationTax",
+                "name": "Corporation Tax",
+                "type": "link"
+              },
+              {
+                "route": "CapitalGainsTax",
+                "name": "Capital Gains Tax",
+                "type": "link"
+              },
+              {
+                "route": "TaxAdvisory",
+                "name": "Tax Advisory",
+                "type": "link"
+              },
+              {
+                "route": "TaxInvestigation",
+                "name": "Tax Investigation",
+                "type": "link"
+              },
+              {
+                "route": "ResearchAndDevelopment",
+                "name": "Research and Development",
+                "type": "link"
+              },
+              {
+                "route": "EMIScheme",
+                "name": "EMI Scheme",
+                "type": "link"
+              },
+              {
+                "route": "SEISAndEIS",
+                "name": "SEIS and EIS accounting",
+                "type": "link"
+              }
+            ]
+          },
+          {
+            "route": "",
+            "name": "Legal",
+            "type": "sub",
+            "children": [
+              {
+                "route": "CompanyFormation",
+                "name": "Company Formation",
+                "type": "link"
+              },
+              {
+                "route": "RegisteredAddress",
+                "name": "Registered Address",
+                "type": "link"
+              },
+              {
+                "route": "CompanySecretarial",
+                "name": "Company Secretarial",
+                "type": "link"
+              },
+              {
+                "route": "LegalBusinessHelpline",
+                "name": "Legal Business Helpline",
+                "type": "link"
+              },
+              {
+                "route": "Non-disclosureAgreement",
+                "name": "Non-disclosure Agreement",
+                "type": "link"
+              },
+              {
+                "route": "FoundersAgreement",
+                "name": "Founders Agreement",
+                "type": "link"
+              },
+              {
+                "route": "Intellectual Property",
+                "name": "Intellectual Property",
+                "type": "link"
+              },
+              {
+                "route": "ShareTransfer",
+                "name": "Share transfer",
+                "type": "link"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "route": "whoWeHelp",
+        "name": "Who We Help",
+        "type": "sub",
+        "icon": "supervisor_account",
+        "children": [
+          {
+            "route": "",
+            "name": "LTD Companies",
+            "type": "sub",
+            "children": [
+              {
+                "route": "Startups",
+                "name": "Startups",
+                "type": "link"
+              },
+              {
+                "route": "SmallBusiness",
+                "name": "Small Business",
+                "type": "link"
+              },
+              {
+                "route": "LimitedCompany",
+                "name": "Limited Company",
+                "type": "link"
+              }
+            ]
+          },
+          {
+            "route": "",
+            "name": "E-Commerce",
+            "type": "sub",
+            "children": [
+              {
+                "route": "Amazonseller",
+                "name": "Amazon seller",
+                "type": "link"
+              },
+              {
+                "route": "Shopify",
+                "name": "Shopify",
+                "type": "link"
+              },
+              {
+                "route": "Saas",
+                "name": "Saas",
+                "type": "link"
+              },
+              {
+                "route": "EbaySeller",
+                "name": "Ebay Seller",
+                "type": "link"
+              },
+              {
+                "route": "WooCommerce",
+                "name": "WooCommerce",
+                "type": "link"
+              },
+              {
+                "route": "DropShipping",
+                "name": "DropShipping",
+                "type": "link"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "route": "company",
+        "name": "Company",
+        "type": "sub",
+        "icon": "info",
+        "children": [
+          {
+            "route": "aboutUs",
+            "name": "Abount Us",
+            "type": "link"
+          },
+          {
+            "route": "contactUs",
+            "name": "Contact Us",
+            "type": "link"
+          },
+          {
+            "route": "resources",
+            "name": "Resources",
+            "type": "link"
+          }
+        ]
+      },
+      {
+        "route": "prices",
+        "name": "prices",
+        "type": "link",
+        "icon": "attach_money",
+        "badge": {
+          "color": "red-500",
+          "value": "5"
+        }
+      }
+    ]
+  }
+  
