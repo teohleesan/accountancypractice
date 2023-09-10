@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1694174457753,
+  "timestamp": 1694330649136,
   "index": "https://teohleesan.github.io/accountancypractice/index.html",
   "assetGroups": [
     {
@@ -12,16 +12,17 @@
       },
       "urls": [
         "https://teohleesan.github.io/accountancypractice/136.8ad39a8f55b7c2a9.js",
-        "https://teohleesan.github.io/accountancypractice/241.107a7fbfa4943c63.js",
-        "https://teohleesan.github.io/accountancypractice/415.bbfd677009ea4bc2.js",
+        "https://teohleesan.github.io/accountancypractice/241.9e622e4940494c9c.js",
+        "https://teohleesan.github.io/accountancypractice/432.1dcbb05de98a5b0c.js",
         "https://teohleesan.github.io/accountancypractice/646.5772d8fac9ce80f2.js",
+        "https://teohleesan.github.io/accountancypractice/854.0a968e6647999950.js",
         "https://teohleesan.github.io/accountancypractice/favicon.ico",
         "https://teohleesan.github.io/accountancypractice/index.html",
-        "https://teohleesan.github.io/accountancypractice/main.71f238d74493f3b3.js",
+        "https://teohleesan.github.io/accountancypractice/main.4cab08c1913f3331.js",
         "https://teohleesan.github.io/accountancypractice/manifest.webmanifest",
         "https://teohleesan.github.io/accountancypractice/polyfills.c4086aaab6585c8a.js",
-        "https://teohleesan.github.io/accountancypractice/runtime.5a073fb05e87eac5.js",
-        "https://teohleesan.github.io/accountancypractice/styles.49bbaa999ce84219.css"
+        "https://teohleesan.github.io/accountancypractice/runtime.85de44883f7454fc.js",
+        "https://teohleesan.github.io/accountancypractice/styles.be968d2ddc1d2463.css"
       ],
       "patterns": []
     },
@@ -71,11 +72,12 @@
   "dataGroups": [],
   "hashTable": {
     "https://teohleesan.github.io/accountancypractice/136.8ad39a8f55b7c2a9.js": "2e4c0ccc3ab27e5d697c9bc44769123e5ee7c70d",
-    "https://teohleesan.github.io/accountancypractice/241.107a7fbfa4943c63.js": "09ae92f92bec026bfe8e6fcf42b90d6feee1f5ab",
-    "https://teohleesan.github.io/accountancypractice/415.bbfd677009ea4bc2.js": "d1665da7414afe04e088ec611cc6b6d9407cf45f",
+    "https://teohleesan.github.io/accountancypractice/241.9e622e4940494c9c.js": "118d72692a2c86f1066829b4ed00ca43918c25ac",
+    "https://teohleesan.github.io/accountancypractice/432.1dcbb05de98a5b0c.js": "d525621d755298790e12bc3dd99ab6aac5d92101",
     "https://teohleesan.github.io/accountancypractice/646.5772d8fac9ce80f2.js": "0b73ca2543f8bcf43b0f1aad3162fc5c459019a0",
+    "https://teohleesan.github.io/accountancypractice/854.0a968e6647999950.js": "469e8166e4a4d7aaa4cfdf5808fb4f9f4818508b",
     "https://teohleesan.github.io/accountancypractice/Roboto-Regular.d0bc87a819730d23.ttf": "56c5c0d38bde4c1f1549dda43db37b09c608aad3",
-    "https://teohleesan.github.io/accountancypractice/assets/data/menu.json": "16485041dc5bde21ca1c508d3d8f7f5cf37a123a",
+    "https://teohleesan.github.io/accountancypractice/assets/data/menu.json": "74dd726e2d4aca47564d94f7b70dbf35dab10ffe",
     "https://teohleesan.github.io/accountancypractice/assets/data/resources.json": "7130b2373428a0480490905a521875a1505f6fef",
     "https://teohleesan.github.io/accountancypractice/assets/fonts/LICENSE.txt": "47b573e3824cd5e02a1a3ae99e2735b49e0256e4",
     "https://teohleesan.github.io/accountancypractice/assets/fonts/Roboto-Black.ttf": "3f8e401d808f6ce84b542266726514ac8be73171",
@@ -105,13 +107,13 @@
     "https://teohleesan.github.io/accountancypractice/assets/material_icons/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
     "https://teohleesan.github.io/accountancypractice/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "https://teohleesan.github.io/accountancypractice/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.59322316b3fd6063.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
-    "https://teohleesan.github.io/accountancypractice/index.html": "59775ab730b66fee155d23da4d24a619fd405018",
-    "https://teohleesan.github.io/accountancypractice/main.71f238d74493f3b3.js": "dea02bd963748689377453bf4b14ceb12d2c5830",
+    "https://teohleesan.github.io/accountancypractice/index.html": "786b7e3701d73bf6db7a3ceb62fef1968ca9e8be",
+    "https://teohleesan.github.io/accountancypractice/main.4cab08c1913f3331.js": "78930c9424a6cca759506e1c888c8a2f87870e31",
     "https://teohleesan.github.io/accountancypractice/manifest.webmanifest": "8d22e738fa51917fc778aede9e54e41d6cd70f5c",
     "https://teohleesan.github.io/accountancypractice/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "https://teohleesan.github.io/accountancypractice/polyfills.c4086aaab6585c8a.js": "401fd42c5baeeac8b812c13b9e0cfc7827ab52bd",
-    "https://teohleesan.github.io/accountancypractice/runtime.5a073fb05e87eac5.js": "f6d2bbd392663282ef6029726a36d4aeacf6ee8f",
-    "https://teohleesan.github.io/accountancypractice/styles.49bbaa999ce84219.css": "0c399aa289450c08f323c651e2e586420e0eb16c"
+    "https://teohleesan.github.io/accountancypractice/runtime.85de44883f7454fc.js": "5fd3d38356d6e8711c097b7b74030a2f79cb879f",
+    "https://teohleesan.github.io/accountancypractice/styles.be968d2ddc1d2463.css": "339b8fdb1cb5d52843b21284702ba9132611b55e"
   },
   "navigationUrls": [
     {

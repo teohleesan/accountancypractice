@@ -12,47 +12,47 @@
             "type": "sub",
             "children": [
               {
-                "route": "StatutoryAccounts",
+                "route": "statutoryAccounts",
                 "name": "Statutory Accounts",
                 "type": "link"
               },
               {
-                "route": "ManagementAccounts",
+                "route": "managementAccounts",
                 "name": "Management Accounts",
                 "type": "link"
               },
               {
-                "route": "BookkeepingServices",
+                "route": "bookkeepingServices",
                 "name": "Bookkeeping Services",
                 "type": "link"
               },
               {
-                "route": "PayrollServices",
+                "route": "payrollServices",
                 "name": "Payroll Services",
                 "type": "link"
               },
               {
-                "route": "BusinessPlanServices",
+                "route": "businessPlanServices",
                 "name": "Business Plan Services",
                 "type": "link"
               },
               {
-                "route": "SelfAssessment",
+                "route": "selfAssessment",
                 "name": "Self Assessment",
                 "type": "link"
               },
               {
-                "route": "VAT",
+                "route": "vat",
                 "name": "VAT",
                 "type": "link"
               },
               {
-                "route": "PensionsAndAutoEnrolment",
+                "route": "pensionsAndAutoEnrolment",
                 "name": "Pensions and Auto Enrolment",
                 "type": "link"
               },
               {
-                "route": "CashFlowMgmt",
+                "route": "cashFlowMgmt",
                 "name": "Cash Flow Management",
                 "type": "link"
               }
@@ -64,38 +64,28 @@
             "type": "sub",
             "children": [
               {
-                "route": "CorporationTax",
+                "route": "corporationTax",
                 "name": "Corporation Tax",
                 "type": "link"
               },
               {
-                "route": "CapitalGainsTax",
+                "route": "capitalGainsTax",
                 "name": "Capital Gains Tax",
                 "type": "link"
               },
               {
-                "route": "TaxAdvisory",
+                "route": "taxAdvisory",
                 "name": "Tax Advisory",
                 "type": "link"
               },
               {
-                "route": "TaxInvestigation",
+                "route": "taxInvestigation",
                 "name": "Tax Investigation",
                 "type": "link"
               },
               {
-                "route": "ResearchAndDevelopment",
+                "route": "researchAndDevelopment",
                 "name": "Research and Development",
-                "type": "link"
-              },
-              {
-                "route": "EMIScheme",
-                "name": "EMI Scheme",
-                "type": "link"
-              },
-              {
-                "route": "SEISAndEIS",
-                "name": "SEIS and EIS accounting",
                 "type": "link"
               }
             ]
@@ -106,43 +96,28 @@
             "type": "sub",
             "children": [
               {
-                "route": "CompanyFormation",
+                "route": "companyFormation",
                 "name": "Company Formation",
                 "type": "link"
               },
               {
-                "route": "RegisteredAddress",
+                "route": "registeredAddress",
                 "name": "Registered Address",
                 "type": "link"
               },
               {
-                "route": "CompanySecretarial",
+                "route": "companySecretarial",
                 "name": "Company Secretarial",
                 "type": "link"
               },
               {
-                "route": "LegalBusinessHelpline",
+                "route": "legalBusinessHelpline",
                 "name": "Legal Business Helpline",
                 "type": "link"
               },
               {
-                "route": "Non-disclosureAgreement",
+                "route": "non-disclosureAgreement",
                 "name": "Non-disclosure Agreement",
-                "type": "link"
-              },
-              {
-                "route": "FoundersAgreement",
-                "name": "Founders Agreement",
-                "type": "link"
-              },
-              {
-                "route": "Intellectual Property",
-                "name": "Intellectual Property",
-                "type": "link"
-              },
-              {
-                "route": "ShareTransfer",
-                "name": "Share transfer",
                 "type": "link"
               }
             ]
@@ -161,17 +136,17 @@
             "type": "sub",
             "children": [
               {
-                "route": "Startups",
+                "route": "startups",
                 "name": "Startups",
                 "type": "link"
               },
               {
-                "route": "SmallBusiness",
+                "route": "smallBusiness",
                 "name": "Small Business",
                 "type": "link"
               },
               {
-                "route": "LimitedCompany",
+                "route": "limitedCompany",
                 "name": "Limited Company",
                 "type": "link"
               }
@@ -183,32 +158,32 @@
             "type": "sub",
             "children": [
               {
-                "route": "Amazonseller",
+                "route": "amazonseller",
                 "name": "Amazon seller",
                 "type": "link"
               },
               {
-                "route": "Shopify",
+                "route": "shopify",
                 "name": "Shopify",
                 "type": "link"
               },
               {
-                "route": "Saas",
+                "route": "saas",
                 "name": "Saas",
                 "type": "link"
               },
               {
-                "route": "EbaySeller",
+                "route": "ebaySeller",
                 "name": "Ebay Seller",
                 "type": "link"
               },
               {
-                "route": "WooCommerce",
+                "route": "wooCommerce",
                 "name": "WooCommerce",
                 "type": "link"
               },
               {
-                "route": "DropShipping",
+                "route": "dropShipping",
                 "name": "DropShipping",
                 "type": "link"
               }
